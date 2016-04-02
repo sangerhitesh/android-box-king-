@@ -1,0 +1,345 @@
+﻿#EXTM3U
+
+#EXTINF:0,HOW TO CHANGE AUDIO LANGUAGE
+http://www.oc.tcomputers.ca/cloud/index.php/s/AR9xtVGxgEzdglK/download
+---------------------------------------------------------------------------------------------------------------
+
+
+#EXTINF:0,Bein Sport 1 
+0
+
+#EXTINF:0,Bein Sport 2 
+0
+
+#EXTINF:0,Bein Sport 3
+0
+
+#EXTINF:0,Big Ten Network 
+0
+
+#EXTINF:0,Box Nation 
+0
+
+#EXTINF:0,BT Sport 1 
+http://02e4.vp9.tv/chn/btsu1/v.m3u8
+
+#EXTINF:0,BT Sport 2 
+http://02e4.vp9.tv/chn/btsu2/v.m3u8
+
+#EXTINF:0,CBS Sports 
+0
+
+#EXTINF:0,Chelsea TV 
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:0,CMore Sport 
+0
+
+#EXTINF:0,Destination X
+0
+
+#EXTINF:0,ESPN 
+http://167.114.102.27/live/ChRnWoPixMNk_n9eDjPkgw/1459244991/7b0ef842a6a1233a8a86a8533063a1a1.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+
+#EXTINF:0,ESPN 2
+0
+
+#EXTINF:0,Eurosport 1 
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+
+#EXTINF:0,Eurosport 2
+0
+
+#EXTINF:0,Eurosport News 
+0
+
+#EXTINF:0,Fifa TV 
+0
+
+#EXTINF:0,Fishing & Hunting 
+0
+
+#EXTINF:0,Fightbox
+0
+
+#EXTINF:0,Fox Sports 
+0
+
+#EXTINF:0,Fox Sports 1 
+http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
+
+#EXTINF:0,Fox Sports 2 
+http://80.243.189.26:8889/pintvhd/FoxSport2/index.m3u8
+
+#EXTINF:0,Fox Sports News 
+0
+
+#EXTINF:0,FSC
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:0,HBO Boxing
+0
+
+#EXTINF:0,LFC TV 
+0
+
+#EXTINF:0,Mercedes TV
+mms://100automoto.tv/channel_mercedes
+
+#EXTINF:0,MLB 
+0
+
+#EXTINF:0,Motors TV 
+rtmp://31.220.2.149:80/live playpath=motors swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=motors&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z timeout=10
+
+#EXTINF:0,Motors TV 
+rtmp://31.220.2.149:80/live/ playpath=motors token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://yotv.co
+
+#EXTINF:0,Motorsport 7 
+http://motorsport.hopto.org:8080/
+
+#EXTINF:0,My Combat Channel
+0
+
+#EXTINF:0,Nascar TV 
+mms://100automoto.tv/100livesport
+
+#EXTINF:0,NBA TV 
+0
+
+#EXTINF:0,NBC Golf 
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=66.171.228.102
+
+#EXTINF:0,NBC Golf HD
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:0,NBC Golf HD
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:0,NBCSN 
+http://cdn.phoenix.intergi.com/21772/videos/3362254/video-sd.mp4?hosting_id=21772
+
+#EXTINF:0,NFL Live 
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
+
+#EXTINF:0,NFL Network 
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
+
+#EXTINF:0,NHL Network 
+0
+
+#EXTINF:0,NWA Wrestling
+0
+
+#EXTINF:0,Outdoor Channel 
+http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/119/index.m3u8
+
+#EXTINF:0,PAC 12 Arizona 
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+
+#EXTINF:0,PAC 12 Arizona HD 
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+
+#EXTINF:0,PAC 12 Arizona HD 
+http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/master.m3u8
+
+#EXTINF:0,PAC 12 Bay Area 
+http://xrxs.net/video/live-p12baya-1164.m3u8
+
+#EXTINF:0,PAC 12 Bay Area HD 
+http://xrxs.net/video/live-p12baya-4728.m3u8?
+
+#EXTINF:0,PAC 12 Bay Area HD 
+http://pac12hd2-lh.akamaihd.net/i/p12baya_delivery@132837/master.m3u8
+
+#EXTINF:0,PAC 12 LA 
+http://xrxs.net/video/live-p12losa-1164.m3u8
+
+#EXTINF:0,PAC 12 LA HD 
+http://xrxs.net/video/live-p12losa-4728.m3u8?
+
+#EXTINF:0,PAC 12 LA HD 
+http://pac12hd2-lh.akamaihd.net/i/p12losa_delivery@132838/master.m3u8
+
+#EXTINF:0,PAC 12 National 
+http://xrxs.net/video/live-p12netw-1164.m3u8
+ 
+#EXTINF:0,PAC 12 National HD 
+http://xrxs.net/video/live-p12netw-2328.m3u8
+
+#EXTINF:0,PAC 12 Mountain 
+http://xrxs.net/video/live-p12moun-2328.m3u8
+
+#EXTINF:0,PAC 12 Mountain HD
+http://pac12hd2-lh.akamaihd.net/i/p12moun_delivery@132839/master.m3u8
+
+#EXTINF:0,PAC 12 Oregon 
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+
+#EXTINF:0,PAC 12 Oregon HD
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+
+#EXTINF:0,PAC 12 Oregon HD
+http://pac12hd2-lh.akamaihd.net/i/p12oreg_delivery@132835/master.m3u8
+
+#EXTINF:0,PAC 12 Washington 
+http://xrxs.net/video/live-p12wash-1164.m3u8
+ 
+#EXTINF:0,PAC 12 Washington HD 
+http://xrxs.net/video/live-p12wash-4728.m3u8?
+
+#EXTINF:0,Poker Central
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
+
+#EXTINF:0,Porsche Channel 
+mms://100automoto.tv/channel_porsche
+
+#EXTINF:0,Premier Sports 
+rtmp://31.220.2.149:80/live/ playpath=premier token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://yotv.co
+
+#EXTINF:0,Premier Sports 
+rtmp://31.220.2.149:80/live playpath=premier swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=premier&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z
+
+#EXTINF:0,Racing UK 
+0
+
+#EXTINF:0,Redbull TV
+http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
+
+#EXTINF:0,Root Sports 
+0
+
+#EXTINF:0,Setanta Sports 
+0
+
+#EXTINF:0,Sky Sports 1 
+rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv21_6vhudlq8
+
+#EXTINF:0,Sky Sports 2 
+http://37.187.24.177:80/ramzi/ramzi/852.ch
+
+#EXTINF:0,Sky Sports 2 
+rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv22_j5p1mted
+
+#EXTINF:0,Sky Sports 3 
+rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv23_5px3ntfs
+
+#EXTINF:0,Sky Sports 4 
+rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv24_f84rdmkk
+
+#EXTINF:0,Sky Sports 5 
+http://37.187.24.177:80/ramzi/ramzi/853.ch
+
+#EXTINF:0,Sky Sports 5 
+http://144.76.3.83/sky_sports5gb.m3u8
+
+#EXTINF:0,Sky Sports 5 
+rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv25_wt250ssk
+
+#EXTINF:0,Sky Sports F1 
+0
+
+#EXTINF:0,Sky Sports News 
+0
+
+#EXTINF:0,Sports Tonight 
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
+
+#EXTINF:0,Sportsnet 360 
+0
+
+#EXTINF:0,Sportsnet East
+0
+
+#EXTINF:0,Sportsnet One 
+rtmp://31.220.2.149:80/live playpath=sprt1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=sprt1&vw=620&vh=490 token=%Zrey(nKa@#Z
+
+#EXTINF:0,Sportsnet One 
+rtmp://185.63.255.18:80/live playpath=sprt1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=sprt1&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z
+
+#EXTINF:0,Sportsnet One 
+rtmp://185.63.255.60:80/live playpath=sprt1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=sprt1&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z
+
+#EXTINF:0,Sportsnet Ontario 
+rtmp://185.63.255.60:80/live playpath=ontrio swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://yotv.co/embedu.php?live=ontrio&vw=620&vh=490 token=%Zrey(nKa@#Z timeout=13
+
+#EXTINF:0,Sportsnet Ontario 
+rtmp://185.63.255.60:80/live playpath=ontrio swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=ontrio&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z
+
+#EXTINF:0,Sportsnet Ontario 
+rtmp://185.63.255.18:80/live playpath=ontrio swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=ontrio&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z
+
+#EXTINF:0,Sportsnet Pacific
+0
+
+#EXTINF:0,Sportsnet World 
+0
+
+#EXTINF:0,Tennis Channel 
+0
+
+#EXTINF:0,Trace Sports
+0
+
+#EXTINF:0,TSN 1 
+http://bb1.sendevric.com:8000/live/marksat485/0lOcqtLIMh/1031.ts
+
+#EXTINF:0,TSN 1 
+rtmp://31.220.2.149:80/live/ playpath=ts1 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://yotv.co
+
+#EXTINF:0,TSN 1 
+rtmp://185.63.255.18:80/live playpath=ts1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=ts1&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z
+
+#EXTINF:0,TSN 2 
+http://bb1.sendevric.com:8000/live/marksat485/0lOcqtLIMh/1032.ts
+
+#EXTINF:0,TSN 2 
+rtmp://31.220.2.149:80/live/ playpath=tsnx2 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://yotv.co
+
+#EXTINF:0,TSN 2 
+rtmp://185.63.255.60:80/live playpath=tsnx2 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=tsnx2&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z
+
+#EXTINF:0,TSN 3 
+http://bb1.sendevric.com:8000/live/marksat485/0lOcqtLIMh/1033.ts
+
+#EXTINF:0,TSN 4 
+http://bb1.sendevric.com:8000/live/marksat485/0lOcqtLIMh/1034.ts
+
+#EXTINF:0,TSN 5 
+http://bb1.sendevric.com:8000/live/marksat485/0lOcqtLIMh/1035.ts
+
+#EXTINF:0,UFC TV 
+0
+
+#EXTINF:0,Ultimate Outdoors
+0
+
+#EXTINF:0,Viasat Golf 
+
+
+#EXTINF:0,Viasat Sport 
+http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
+
+#EXTINF:0,VS Versus 
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:0,Wild TV
+0
+
+#EXTINF:0,Wilderness Channel
+0
+
+#EXTINF:0,World of Martial Arts
+0
+
+#EXTINF:0,WWE Network 
+http://veetle.com/index.php/hls/streamMbrFast/5541faf1cd035_/stream.m3u
+
+
+
+
+
+
+
+
+
